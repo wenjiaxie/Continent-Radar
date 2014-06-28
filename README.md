@@ -6,8 +6,8 @@ A C# program capture and extract the information of objects that a Continent Rad
 <h1> GUI view </h1><br><hr>
 <h2> no device plugged in</h2><br>
 <center>
-<img src = "http://www-scf.usc.edu/~wenjiaxi/radar1.jpg" heigth=400 width=300 \>
+<img src = "http://www-scf.usc.edu/~wenjiaxi/radar1.jpg" style="heigth=400 width=300" \>
 <h2> with device plugged in</h2><br>
 
-<img src = "http://www-scf.usc.edu/~wenjiaxi/radar2.jpg" heigth=400 width=300 \>
+<img src = "http://www-scf.usc.edu/~wenjiaxi/radar2.jpg" style="heigth=400 width=300" \>
 </center>
